@@ -1,1 +1,1 @@
-Don't use term bold
+Don't use bold
