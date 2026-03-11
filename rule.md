@@ -1,1 +1,1 @@
-Don't use term earn
+Don't use term bold
