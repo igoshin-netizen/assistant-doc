@@ -1,1 +1,1 @@
-Don't use bold
+Don't use italic
